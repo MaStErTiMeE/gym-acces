@@ -59,9 +59,3 @@ Durante lo sviluppo ho consolidato principi di software engineering fondamentali
 - **System Integration:** Far comunicare in modo affidabile uno script locale di Computer Vision con API Java remote, gestendo e interpretando correttamente i vari status code HTTP.
 
 ---
-
-## 🚀 Setup e Installazione (Ambiente Locale)
-
-1. Clona il repository:
-   ```bash
-   git clone [https://github.com/](https://github.com/)[TUO-NOME-UTENTE]/gym-access-system.git
